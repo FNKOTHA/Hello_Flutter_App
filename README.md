@@ -1,6 +1,6 @@
 # hello_flutter_app
 
-This is a practice project. I'm a noob in Flutter and just trying to learnig it by practicing.
+This is a practice project. I'm a noob in Flutter and just trying to learnig it by practicing which is given by Teamz Lab.
 
 ![image alt](https://raw.githubusercontent.com/FNKOTHA/Hello_Flutter_App/8543f1187e52d733b631f2f0ac40179f182c31d8/helloFlutterApp.png)
 ![image_alt](https://raw.githubusercontent.com/FNKOTHA/Hello_Flutter_App/8543f1187e52d733b631f2f0ac40179f182c31d8/helloFlutterApp02.png)
